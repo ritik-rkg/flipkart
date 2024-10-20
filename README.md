@@ -70,26 +70,3 @@ Ensure you have the following dependencies installed:
 - **Torchvision** for model transformations.
   
 
-## How to Use
-
-1. Clone the repository:
-    bash
-    git clone https://github.com/yourusername/flipkart-hackathon-project.git
-    
-2. Install required dependencies:
-    bash
-    pip install -r requirements.txt
-    
-3. Follow the individual use case instructions under the /modules directory for specific details on OCR, image recognition, and freshness detection.
-
-## Contributions
-
-We welcome contributions! If you have any ideas for improving the system or want to contribute code, feel free to fork the repo and open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear overview of the use cases and the technical approach for the hackathon project. Let me know if you'd like to add more specific details!
