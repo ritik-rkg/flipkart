@@ -52,5 +52,5 @@ def generate_answer(img_path):
             print(f"Error occurred: {e}")
 
 # Example usage
-img_path = "handwash.jpeg"
+img_path = "mouthwash.jpeg"
 generate_answer(img_path)
