@@ -1,6 +1,3 @@
-Here’s a draft for your README file for the Flipkart Hackathon project based on the provided use cases:
-
----
 
 # Flipkart Grid 4.0 Hackathon Project
 
