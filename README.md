@@ -7,10 +7,10 @@ This repository contains the project submission for the *Flipkart Grid 4.0 Hacka
 
 ## Technical Stack
 
-*OCR*: [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) or other OCR engines for text extraction from images.
-*Machine Learning*: Image recognition models (e.g. TensorFlow, PyTorch) for detecting product brands and shelf-life prediction.
-*Infrared Technology*: IR-based recognition for count validation.
-*Data Processing*: Python for data processing and integration with OCR/ML models.
+- *OCR*: [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) or other OCR engines for text extraction from images.
+- *Machine Learning*: Image recognition models (e.g. TensorFlow, PyTorch) for detecting product brands and shelf-life prediction.
+- *Infrared Technology*: IR-based recognition for count validation.
+- *Data Processing*: Python for data processing and integration with OCR/ML models.
 
   
 ## Task 1 and Task 2 - OCR & Expiry Date Extraction
