@@ -48,7 +48,7 @@ This task is centered around detecting brand logos in images using **YOLOv8**. T
 By running the detection script, users can utilize **YOLOv8** to detect logos on input images. The model scans the image, and identifies, and localizes brand logos, demonstrating accuracy in varied scenarios.
 
 
-### Task 4: Detecting Freshness of Fresh Produce
+## Task 4: Detecting Freshness of Fresh Produce
 - **Objective**: Detect fresh produce items in a live video feed and predict their freshness or credibility score.
 - **Approach**:
   - **YOLOv8** is used for object detection to identify produce (e.g., bananas, apples) in the camera feed.
