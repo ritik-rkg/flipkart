@@ -1,7 +1,7 @@
 
 # Flipkart Grid 6.0 Hackathon Project
 
-This repository contains the project submission for the *Flipkart Grid 4.0 Hackathon*. The project aims to solve real-world challenges in the retail and FMCG (Fast-Moving Consumer Goods) industry using cutting-edge technology such as OCR (Optical Character Recognition), image recognition, and machine learning models for product identification, expiry validation, and freshness detection.
+This repository contains the project submission for the *Flipkart Grid 6.0 Hackathon*. The project aims to solve real-world challenges in the retail and FMCG (Fast-Moving Consumer Goods) industry using cutting-edge technology such as OCR (Optical Character Recognition), image recognition, and machine learning models for product identification, expiry validation, and freshness detection.
 
 
 
